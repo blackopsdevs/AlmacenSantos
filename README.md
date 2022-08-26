@@ -1,9 +1,9 @@
-# AlmacenSantos {product catalog}
+# AlmacenSantos
 
-_Este mini-proyecto pretende replicar el catalogo de la siguiente imagen:_
+_Este mini-proyecto pretende generar un sistema para administrar un Almacen de Alimentos y forrajes:_
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_orig.png" alt="demo"/>
+  <img width="700" align="center" src="" alt="demo"/>
 </p>
 
 ## Descripcion 🚀
@@ -24,19 +24,19 @@ _Descarga o clona el proyecto tu maquina local y compila con **maven**_
 _En la siguiente imagen se muestra la estructura de paquetes:_
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_paquetes.png" alt="demo"/>
+  <img width="700" align="center" src="" alt="demo"/>
 </p>
 
 _En la siguiente imagen se muestran los archivos de configuracion de los beans:_
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_config.png" alt="demo"/>
+  <img width="700" align="center" src="" alt="demo"/>
 </p>
 
 _En la siguiente imagen se muestran el menu del sistema:_
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_menu.png" alt="demo"/>
+  <img width="700" align="center" src="" alt="demo"/>
 </p>
 
 ## Construido con 🛠️
