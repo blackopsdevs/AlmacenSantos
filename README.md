@@ -2,6 +2,30 @@
 
 _Este mini-proyecto pretende generar un sistema para administrar un Almacen de Alimentos y forrajes:_
 
+Mini-almacén
+
+el primer paso que se realiza es la entrada del producto al almacén y es mediante la compra de productos a uno o más proveedores.
+
+Cada proveedor puede tener uno o varios productos así como una o varias marcas de productos.
+
+Cada marca puede tener o varios productos para uno o varios animales.
+
+Un producto puede ser para uno o varios animales.
+
+Un producto puede tener una o varias presentaciones.
+
+El sistema puede tener personas como usuarios, personas como empleados y personas como clientes.
+
+Un usuario puede dar de alta productos.
+
+Un usuario puede dar de alta entradas de productos.
+
+Un usuario puede realizar una o más ventas.
+
+Una venta puede tener uno o varios productos.
+
+Un producto se puede vender por bulto o pieza o kilo o litro o pesos.
+
 <p align="center">
   <img width="700" align="center" src="" alt="demo"/>
 </p>
