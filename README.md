@@ -27,7 +27,7 @@ Una venta puede tener uno o varios productos.
 Un producto se puede vender por bulto o pieza o kilo o litro o pesos.
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/AlmacenSantos/blob/main/Entidad_Tablas_Bodega.png" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/blackopsdevs/AlmacenSantos/blob/main/Export_Tablas_Bodega.png" alt="demo"/>
 </p>
 
 ## Descripcion 🚀
