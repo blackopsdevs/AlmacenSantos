@@ -69,8 +69,10 @@ _El proyecto esta contruido con las siguientes herramientas:_
 
 * [Java](https://www.java.com/es/download/ie_manual.jsp) - Lenjuage de programacion.
 * [Maven](https://maven.apache.org/) - Manejador de dependencias.
-* [Spring](https://spring.io/) - El framework usado para inyeccion de dependecnias y acceso a bd.
+* [Spring boot](https://spring.io/) - El framework usado para inyeccion de dependecnias y acceso a bd.
 * [log4j](https://logging.apache.org/log4j/2.x/) - Manejador de log.
+* [Thymeleaf](https://www.thymeleaf.org/) - Manejador de peticiones Vista - Servidor.
+* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Manejador vista Front-End.
 
 ## Autores ✒️
 
